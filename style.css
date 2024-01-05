@@ -1,0 +1,31 @@
+p {
+    color: white;
+    font-family: cursive;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+.poster {
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    width: 50%;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+}
+
+.motivation {
+    border: 5px solid white;
+}
+footer {
+    color: white;
+    font-family: cursive;
+}
